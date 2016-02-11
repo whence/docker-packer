@@ -1,0 +1,4 @@
+packer
+packer-builder-amazon-ebs
+packer-provisioner-file
+packer-provisioner-shell
